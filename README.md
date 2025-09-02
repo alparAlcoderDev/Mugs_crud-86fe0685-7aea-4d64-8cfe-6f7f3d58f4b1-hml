@@ -1,1 +1,20 @@
-# Mugs_crud-86fe0685-7aea-4d64-8cfe-6f7f3d58f4b1-hml
+# Mugs_crud
+
+## Descrição
+# FastAPI Documentation
+
+## Instalação
+1. Clone o repositório
+ 2. Instale as dependências:
+    ```bash
+   npm install
+    ```
+
+## Uso
+Execute o servidor:
+```bash
+npm run dev
+```
+
+## Documentação
+Consulte a pasta `docs` para a documentação completa do projeto.
